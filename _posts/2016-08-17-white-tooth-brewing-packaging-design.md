@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Aug. 17, 2016'
-datePublished: '2016-08-17T15:26:15.959Z'
-dateModified: '2016-08-17T15:26:02.512Z'
+datePublished: '2016-08-17T15:30:07.496Z'
+dateModified: '2016-08-17T15:26:22.682Z'
 title: White Tooth Brewing Packaging Design
 author: []
 via: {}
+sourcePath: _posts/2016-08-17-white-tooth-brewing-packaging-design.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-17-white-tooth-brewing-packaging-design.md
 url: white-tooth-brewing-packaging-design/index.html
 _type: Article
 
