@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hired Guns Creative]]></title>
+        <description><![CDATA[Hired Guns Creative]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 15:26:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[White Tooth Brewing Packaging Design]]></title>
+            <description><![CDATA[<article><h1>White Tooth Brewing Packaging Design</h1><p>Aug. 17, 2016</p></article>]]></description>
+            <link>undefinedwhite-tooth-brewing-packaging-design/index.html</link>
+            <guid isPermaLink="false">7015dc3e-2f41-4274-b37a-d3cf22eeb07d</guid>
+            <pubDate>Wed, 17 Aug 2016 15:26:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
